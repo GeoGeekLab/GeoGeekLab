@@ -36,12 +36,12 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 
 ## 🏋️ OUTSIDE THE LAB
 
-**Now:** strength training · travel · photography · cooking  
-**Always:** philosophy · psychology · rock · hiking · pickleball
+**Now:** lifting 🏋️ travel ✈️ photography 📷 cooking 🍳  
+**Always:** philosophy 📚 psychology 🧠 rock 🎸 hiking 🥾 pickleball 🏓
 
 ---
 
-## 🤝 SERVICE
+## 🤝 COMMUNITY
 
 - 🌾 **Volunteer Team Lead** — Guangdong’s Third National Soil Survey
 - 🏃 **Volunteer** — Guangzhou Marathon
