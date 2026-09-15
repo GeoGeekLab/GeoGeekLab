@@ -24,7 +24,7 @@ He/Him · A geek who builds in public and learns out loud. 🛠️📣 · A boy 
 
 ## 🤝 COMMUNITY
 
-🌾 **Volunteer Team Lead** — Guangdong’s Third National Soil Survey · 🏃 **Volunteer** — Guangzhou Marathon
+🌾 **Volunteer Team Lead** — Third National Soil Survey, Guangdong · 🏃 **Volunteer** — Guangzhou Marathon
 
 ---
 
