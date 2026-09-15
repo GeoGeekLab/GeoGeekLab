@@ -11,15 +11,15 @@ I work with remote sensing, geospatial AI, and Earth-system data — turning obs
 **Now**
 
 - **Remote sensing of estuarine nutrient dynamics and watershed–estuary coupling**
-- **Global reconstruction of river-network topology from remotely sensed hydrography**
+- **Remote sensing–based reconstruction of global river-network topology**
 
 **Earlier**
 
-- Near-real-time **satellite mapping of flood extent**
-- **WebGIS-based spatial risk assessment of heavy-metal pollution from industrial facilities**
-- **High-resolution land-use / land-cover mapping with deep learning**
-- **Automated preprocessing pipeline for Gaofen-2 satellite imagery**
-- **Deep-learning-based land-use / land-cover change detection**
+- **Near-real-time remote sensing of flood inundation**
+- **WebGIS-based spatial assessment of heavy-metal pollution risk from industrial sources**
+- **Deep-learning-based high-resolution land-use and land-cover mapping**
+- **Automated preprocessing of Gaofen-2 satellite imagery**
+- **Deep-learning-based land-use and land-cover change detection**
 
 ## Methods
 
