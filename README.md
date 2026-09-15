@@ -2,7 +2,7 @@
 
 > **Geo to see. Geek to build.**
 
-**He/Him.** A solitary geek — serious about maps, models, and evidence; a boy who may dance at sunrise and tear up at sunset, usually somewhere between code, a camera, a mountain trail, rock music, and the kitchen.
+**He/Him.** A solitary, exacting geek — disciplined in thought, unguarded in feeling; a boy who might dance at first light and be moved to tears at dusk.
 
 [GeoGeek ↗](https://geogeeklab.github.io/) · [Field Notes ↗](https://geogeeklab.github.io/field-notes.html) · [Lab ↗](https://geogeeklab.github.io/lab.html)
 
