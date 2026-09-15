@@ -48,4 +48,4 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 
 ---
 
-> 💧 **Be water, my friend.**
+> 💧 **Motto:** *Be water, my friend.*
