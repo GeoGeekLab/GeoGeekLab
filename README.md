@@ -48,4 +48,20 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 
 ---
 
-> 💧 **Motto:** *Be water, my friend.*
+## 💧 CREED
+
+### 🏔️ PURSUIT
+
+At the summit, the crowd.  
+At dusk, the steadfast.
+
+### ❤️ LOVE
+
+Freedom walks.  
+Love kneels.
+
+### 🤝 FRIENDSHIP
+
+Be water, my friend.
+
+<sub>自由是朝圣，爱是俯身；水无常形，友有常心。</sub>
