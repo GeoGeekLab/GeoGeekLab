@@ -2,7 +2,7 @@
 
 > **Geo to see. Geek to build.**
 
-I work with remote sensing, geospatial AI, and Earth-system data — turning observations into spatial evidence, models, and tools.
+**He/Him.** A solitary geek — serious about maps, models, and evidence; a boy who may dance at sunrise and tear up at sunset, usually somewhere between code, a camera, a mountain trail, rock music, and the kitchen.
 
 [GeoGeek ↗](https://geogeeklab.github.io/) · [Field Notes ↗](https://geogeeklab.github.io/field-notes.html) · [Lab ↗](https://geogeeklab.github.io/lab.html)
 
