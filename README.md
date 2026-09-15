@@ -55,13 +55,17 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 At the summit, the crowd.  
 At dusk, the steadfast.
 
+巅峰迎来喧嚣，黄昏见证虔诚。
+
 ### ❤️ LOVE
 
 Freedom walks.  
 Love kneels.
 
-### 🤝 FRIENDSHIP
+自由是朝圣，爱是俯身。
+
+### 🤝 APPROACH
 
 Be water, my friend.
 
-<sub>自由是朝圣，爱是俯身；水无常形，友有常心。</sub>
+如水而行。
