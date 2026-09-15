@@ -2,7 +2,9 @@
 
 > **Geo to see. Geek to build.**
 
-**He/Him.** A solitary, exacting geek — disciplined in thought, unguarded in feeling; a boy who might dance at first light and be moved to tears at dusk.
+**He/Him**  
+A geek who builds in the open and shares what he learns.  
+A boy who dances at first light and tears up at dusk.
 
 [GeoGeek ↗](https://geogeeklab.github.io/) · [Field Notes ↗](https://geogeeklab.github.io/field-notes.html) · [Lab ↗](https://geogeeklab.github.io/lab.html)
 
