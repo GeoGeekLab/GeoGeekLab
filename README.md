@@ -1,34 +1,34 @@
-# GeoGeekLab
+# GeoGeek
 
 > **Geo to see. Geek to build.**
 
-**He/Him**  
-A geek who builds in the open and shares what he learns.  
-A boy who dances at first light and tears up at dusk.
+He/Him.
+A geek who builds in public and learns out loud. 
+A boy who dances at dawn and tears up at dusk.
 
-[GeoGeek ↗](https://geogeeklab.github.io/) · [Field Notes ↗](https://geogeeklab.github.io/field-notes.html) · [Lab ↗](https://geogeeklab.github.io/lab.html)
+[Skill ↗](https://github.com/GeoGeekLab/nature-reviewer-skills) · [Blog ↗](https://geogeeklab.github.io/field-notes.html) · [Lab ↗](https://geogeeklab.github.io/lab.html)
 
 ## Research
 
 **Now**
 
-- **Remote sensing of estuarine nutrient dynamics and watershed–estuary coupling**
-- **Remote sensing–based reconstruction of global river-network topology**
+- Estuarine nutrients
+- River-network topology
 
 **Earlier**
 
-- **Near-real-time remote sensing of flood inundation**
-- **WebGIS-based spatial assessment of heavy-metal pollution risk from industrial sources**
-- **Deep-learning-based high-resolution land-use and land-cover mapping**
-- **Automated preprocessing of Gaofen-2 satellite imagery**
-- **Deep-learning-based land-use and land-cover change detection**
+- Flood inundation
+- Industrial heavy-metal pollution risk
+- High-resolution land-use mapping
+- Gaofen-2 image preprocessing
+- Land-use change detection
 
 ## Methods
 
-- Remote sensing information extraction
+- Remote sensing
 - Machine learning & deep learning
-- Geospatial analysis & WebGIS
 - LLM workflow design & prompt engineering
+- Geospatial analysis
 
 ## Beyond research
 
@@ -38,7 +38,7 @@ Long-term interests include **philosophy, psychology, rock music, hiking, and pi
 
 ## Service
 
-- **Volunteer Team Lead (Orchard Group)** — training and assessment activities for Guangdong’s Third National Soil Survey
+- **Volunteer Team Lead** — training and assessment activities for Guangdong’s Third National Soil Survey
 - **Volunteer** — Guangzhou Marathon volunteer service program
 
 ---
