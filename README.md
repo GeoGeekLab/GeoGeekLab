@@ -67,7 +67,7 @@ Guangzhou Marathon
 
 At the summit, the crowd.<br>
 At dusk, the steadfast.<br>
-<sub>巅峰人声喧嚣，黄昏方见坚守。</sub>
+<sub>巅峰迎来喧嚣，黄昏见证虔诚。</sub>
 
 </td>
 <td width="50%" valign="top">
