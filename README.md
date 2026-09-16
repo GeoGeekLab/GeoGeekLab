@@ -2,7 +2,7 @@
 
 > **Geo to see. Geek to build.**
 
-🌌 [From Star-Stuff to Tao ↗](https://geogeeklab.github.io/origin/en/)
+🌌 [Origin Story ↗](https://geogeeklab.github.io/origin/en/)
 
 He/Him · A geek who builds in public and learns out loud. 🛠️📣 · A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 
