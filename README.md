@@ -1,4 +1,4 @@
-# GeoGeek 🌍⚙️ · [Why GeoGeek ↗](https://geogeeklab.github.io/origin/en/)
+# GeoGeek 🌍⚙️ <sub>[🧭 Why “GeoGeek”? ↗](https://geogeeklab.github.io/origin/en/)</sub>
 
 > **Geo to see. Geek to build.**
 
