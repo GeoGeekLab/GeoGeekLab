@@ -10,7 +10,7 @@ He/Him · A geek who builds in public and learns out loud. 🛠️📣 · A boy 
 
 ## 🧰 Research
 
-![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-Classification_%26_Change_Detection-2E7D32?style=flat-square)
+![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-Classification_%26_Retrieval-2E7D32?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-Segmentation_%26_Detection-1565C0?style=flat-square)
 ![Scientific AI Agents](https://img.shields.io/badge/Scientific_AI_Agents-Agentic_Workflows-6A1B9A?style=flat-square)
 ![Geospatial Systems](https://img.shields.io/badge/Geospatial_Systems-WebGIS_%26_System_Design-00838F?style=flat-square)
