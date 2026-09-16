@@ -32,6 +32,6 @@ He/Him · A geek who builds in public and learns out loud. 🛠️📣 · A boy 
 
 ## 💧 CREED
 
-**🏔️ PURSUIT** — At the summit, the crowd. At dusk, the steadfast. 巅峰之上，喧嚣如潮；黄昏之下，虔诚如故。
+**🏔️ PURSUIT** — At the summit, the crowd. At dusk, the steadfast. 巅峰之上，喧嚣如潮；黄昏之下，虔诚如故。 
 **❤️ LOVE** — Freedom walks. Love kneels. 自由是朝圣，爱是俯身。  
 **🤝 APPROACH** — Be water, my friend. 如水而行。
