@@ -14,7 +14,7 @@ He/Him · A geek who builds in public and learns out loud. 🛠️📣 · A boy 
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-Segmentation_%26_Detection-1565C0?style=flat-square)
 ![Scientific AI Agents](https://img.shields.io/badge/Scientific_AI_Agents-Agentic_Workflows-6A1B9A?style=flat-square)
 ![Geospatial Systems](https://img.shields.io/badge/Geospatial_Systems-WebGIS_%26_System_Design-00838F?style=flat-square)
-![High-Standard Farmland](https://img.shields.io/badge/High--Standard_Farmland-GIS--MCDA_%26_Planning_%26_Design-EF6C00?style=flat-square)
+![Agricultural Planning](https://img.shields.io/badge/Agricultural_Planning-Spatial_Planning_%26_Design-EF6C00?style=flat-square)
 
 **Now:** 🌊 Estuarine nutrient dynamics · 🕸️ River-network topology  
 **Previously:** 🌊 Flood inundation · ⚠️ Industrial heavy-metal pollution risk assessment · 🗺️ High-resolution land-use mapping & change detection · 🛰️ Gaofen-2 image preprocessing
