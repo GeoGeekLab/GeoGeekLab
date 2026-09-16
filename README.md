@@ -8,11 +8,6 @@ He/Him · A geek who builds in public and learns out loud. 🛠️📣 · A boy 
 
 ---
 
-## 🔬 RESEARCH
-
-**Now:** 🌊 Estuarine nutrients · 🕸️ River-network topology  
-**Earlier:** 🌊 Flood inundation · ⚠️ Industrial heavy-metal pollution risk · 🗺️ High-resolution land-use mapping · 🛰️ Gaofen-2 image preprocessing · 🔍 Land-use change detection
-
 ## 🧰 METHODS
 
 🛰️ Remote sensing · 🤖 Machine learning & deep learning · 🧠 LLM workflow design & prompt engineering · 🗺️ Geospatial analysis
