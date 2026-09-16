@@ -32,7 +32,7 @@ He/Him · A geek who builds in public and learns out loud. 🛠️📣 · A boy 
 
 ## 💧 CREED
 
-**🏔️ PURSUIT** — At the summit, the crowd. At dusk, devotion remains.  巅峰之上，喧嚣如潮；黄昏之下，虔诚如故。
+**🏔️ PURSUIT** — At the summit, the crowd. At dusk, devotion remains.  云巅之上，喧阗若市；暮色之中，虔敬如初。
 
 **❤️ LOVE** — Freedom walks. Love kneels.  自由是朝圣，爱是俯身。
 
