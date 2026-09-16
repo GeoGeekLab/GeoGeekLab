@@ -17,7 +17,7 @@ He/Him · A geek who builds in public and learns out loud. 🛠️📣 · A boy 
 ![High-Standard Farmland](https://img.shields.io/badge/High--Standard_Farmland-GIS--MCDA_%26_Planning_%26_Design-EF6C00?style=flat-square)
 
 **Now:** 🌊 Estuarine nutrient dynamics · 🕸️ River-network topology  
-**Previously:** 🌊 Flood inundation · ⚠️ Industrial heavy-metal pollution risk assessment · 🗺️ High-resolution land-use mapping · 🛰️ Gaofen-2 image preprocessing · 🔍 Land-use change detection
+**Previously:** 🌊 Flood inundation · ⚠️ Industrial heavy-metal pollution risk assessment · 🗺️ High-resolution land-use mapping & change detection · 🛰️ Gaofen-2 image preprocessing
 
 ## 🏋️ OUTSIDE THE LAB
 
