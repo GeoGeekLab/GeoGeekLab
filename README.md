@@ -1,6 +1,8 @@
-# GeoGeek 🌍⚙️ <sub>[🧭 Why “GeoGeek”? ↗](https://geogeeklab.github.io/origin/en/)</sub>
+# GeoGeek 🌍⚙️
 
 > **Geo to see. Geek to build.**
+
+<sub>🌌 [From Star-Stuff to Tao ↗](https://geogeeklab.github.io/origin/en/)</sub>
 
 He/Him · A geek who builds in public and learns out loud. 🛠️📣 · A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 
