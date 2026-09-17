@@ -1,3 +1,5 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=GeoGeekLab&label=Views&color=0e75b6&style=flat-square" alt="Profile views" />
+
 # GeoGeek 🌍⚙️
 
 > **Geo to see. Geek to build.**
@@ -7,8 +9,6 @@
 He/Him · A geek who builds in public and learns out loud. 🛠️📣 · A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 
 [🧩 Skill ↗](https://github.com/GeoGeekLab/nature-reviewer-skills) · [📝 Blog ↗](https://geogeeklab.github.io/field-notes.html) · [🧪 Lab ↗](https://geogeeklab.github.io/lab.html)
-
-![Profile Views](https://komarev.com/ghpvc/?username=GeoGeekLab&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square)
 
 ---
 
