@@ -8,6 +8,8 @@ He/Him · A geek who builds in public and learns out loud. 🛠️📣 · A boy 
 
 [🧩 Skill ↗](https://github.com/GeoGeekLab/nature-reviewer-skills) · [📝 Blog ↗](https://geogeeklab.github.io/field-notes.html) · [🧪 Lab ↗](https://geogeeklab.github.io/lab.html)
 
+![Profile Views](https://komarev.com/ghpvc/?username=GeoGeekLab&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square)
+
 ---
 
 ## 🧰 Research
