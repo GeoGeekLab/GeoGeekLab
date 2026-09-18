@@ -11,13 +11,6 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 
 ---
 
-## 🧰 Research
-
-![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-Classification_%26_Retrieval-2E7D32?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-Segmentation_%26_Detection-1565C0?style=flat-square)
-![AI Agents](https://img.shields.io/badge/Scientific_AI_Agents-Agentic_Workflows-6A1B9A?style=flat-square)
-
-
 ## 🏋️ OUTSIDE THE LAB
 
 **Now:** lifting 🏋️ · photography 📷 · cooking 🍳  
