@@ -1,4 +1,4 @@
-# GeoGeek 🌍⚙️ <img align="right" src="https://komarev.com/ghpvc/?username=GeoGeekLab&label=Views&color=0e75b6&style=flat-square" alt="Profile views" />
+# GeoGeek 🌍⚙️ 
 
 > **Geo to see. Geek to build.**
 
