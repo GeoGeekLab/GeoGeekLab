@@ -4,7 +4,8 @@
 
 🌌 [Origin Story ↗](https://geogeeklab.github.io/origin/en/)
 
-A geek who builds in public and learns out loud. 🛠️📣 · A boy who dances at dawn 🌅 and tears up at dusk 🌆.
+A geek who builds in public 🛠️ and learns out loud 📣 · 
+A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 
 [🧩 Skill ↗](https://github.com/GeoGeekLab/nature-reviewer-skills) · [📝 Blog ↗](https://geogeeklab.github.io/field-notes.html) · [🧪 Lab ↗](https://geogeeklab.github.io/lab.html)
 
