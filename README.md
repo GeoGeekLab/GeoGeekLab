@@ -2,12 +2,10 @@
 
 > **Geo to see. Geek to build.**
 
-🌌 [Origin Story ↗](https://geogeeklab.github.io/origin/en/)
-
 A geek who builds in public 🛠️ and learns out loud 📣.
 A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 
-[🧩 Skill ↗](https://github.com/GeoGeekLab/nature-reviewer-skills) · [📝 Blog ↗](https://geogeeklab.github.io/field-notes.html) · [🧪 Lab ↗](https://geogeeklab.github.io/lab.html)
+🌌 [Origin Story ↗](https://geogeeklab.github.io/origin/en/) · [🧩 Skill ↗](https://github.com/GeoGeekLab/nature-reviewer-skills) · [📝 Blog ↗](https://geogeeklab.github.io/field-notes.html) · [🧪 Lab ↗](https://geogeeklab.github.io/lab.html)
 
 ---
 
@@ -29,7 +27,4 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 云巅之上，喧阗若市；暮色之中，虔敬如初。
 
 **❤️ LOVE** — Freedom walks. Love kneels.
-自由是朝圣，爱是俯身。
-
-**🤝 WAY** — Be water, my friend.
-如水而行。
+自由是朝圣，爱是俯身。    **🤝 WAY** — Be water, my friend. 如水而行。
