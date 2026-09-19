@@ -10,8 +10,6 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 ---
 ## What I build
 
-## What I build
-
 | Project | What it does |
 | --- | --- |
 | [**GeoDebug**](https://github.com/GeoGeekLab/geodebug) | **Geospatial Correctness Engine** — catches geographic bugs that valid files, clean code, and passing pipelines can still hide. |
