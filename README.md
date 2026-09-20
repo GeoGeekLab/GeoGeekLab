@@ -12,12 +12,12 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 
 | Project | What it does |
 | --- | --- |
-| [**GeoDebug**](https://github.com/GeoGeekLab/geodebug) | Deterministic geospatial linting for the bugs type checkers miss: CRS misuse, impossible coordinates, grid misalignment, NoData/mask conflicts, and unsafe spatial ops — local or CI. |
-| [**STAC Scout**](https://github.com/GeoGeekLab/stac-scout) | A STAC decision pipeline: discover → verify Items → resolve assets → plan reads → write manifest → replay against catalog drift. |
-| [**Nature Reviewer Skills**](https://github.com/GeoGeekLab/nature-reviewer-skills) | Evidence-first reviewer skills for scientific claims: controls, uncertainty, mechanism, generalization, domain gates, and executable evaluation cases. |
-| [**IPCC WGI Scientific Plotting**](https://github.com/GeoGeekLab/ipcc-wg1-scientific-plotting-skill) | Python + CLI for AR6 WGI plotting: source-pinned reproductions, scenario styles, publication layouts, and machine-audited figures. |
-| [**engineering-quality**](https://github.com/GeoGeekLab/engineering-quality) | An Agent Skill that turns “looks good” into an evidence trail: repo recon → contract → narrow patch → adversarial checks → diff review → proof. |
-| [**awesome-tech-feeds**](https://github.com/GeoGeekLab/awesome-tech-feeds) | RSS as infrastructure: Git-native source registry → validate → compile → JSON/OPML, with stable IDs, profiles, health probes, a CLI, and a typed API. |
+| [**GeoDebug**](https://github.com/GeoGeekLab/geodebug) | Finds geospatial bugs ordinary tests miss. |
+| [**STAC Scout**](https://github.com/GeoGeekLab/stac-scout) | Finds and verifies the right geospatial data before you compute. |
+| [**Nature Reviewer Skills**](https://github.com/GeoGeekLab/nature-reviewer-skills) | Simulates Nature-style peer review before submission. |
+| [**IPCC WGI Scientific Plotting**](https://github.com/GeoGeekLab/ipcc-wg1-scientific-plotting-skill) | Recreates and audits IPCC AR6-style scientific figures. |
+| [**engineering-quality**](https://github.com/GeoGeekLab/engineering-quality) | Makes coding agents prove their code changes. |
+| [**awesome-tech-feeds**](https://github.com/GeoGeekLab/awesome-tech-feeds) | Curates high-signal tech feeds as a Git-native registry. |
 
 ## 🏋️ Outside the lab
 
