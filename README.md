@@ -1,21 +1,13 @@
-<div align="center">
-
 # GeoGeek 🌍⚙️
 
-**Geo to see. Geek to build.**
+> **Geo to see. Geek to build.**
 
-Geospatial software · scientific tooling · reproducible workflows · open source
+A geek who builds in public 🛠️ and learns out loud 📣.
+A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 
-`CRS · raster · STAC · scientific review · Python · CLI · CI · evals`
-
-[Field Notes ↗](https://geogeeklab.github.io/field-notes.html) ·
-[Lab ↗](https://geogeeklab.github.io/lab.html) ·
-[Origin ↗](https://geogeeklab.github.io/origin/en/)
-
-</div>
+🌌 [Origin Story ↗](https://geogeeklab.github.io/origin/en/) · [🧩 Skill ↗](https://github.com/GeoGeekLab/nature-reviewer-skills) · [📝 Blog ↗](https://geogeeklab.github.io/field-notes.html) · [🧪 Lab ↗](https://geogeeklab.github.io/lab.html)
 
 ---
-
 ## What I'm building
 
 | Project | What it actually does |
@@ -27,42 +19,22 @@ Geospatial software · scientific tooling · reproducible workflows · open sour
 | [**engineering-quality**](https://github.com/GeoGeekLab/engineering-quality) | A portable Agent Skill for coding agents: read the repository contract, patch narrowly, try to break the change, inspect the diff, and separate executed evidence from unverified claims. |
 | [**awesome-tech-feeds**](https://github.com/GeoGeekLab/awesome-tech-feeds) | A Git-native RSS/Atom registry with stable source IDs, curated collections and profiles, deterministic JSON/OPML builds, endpoint health probes, a CLI, and a typed Python API. |
 
-## Current signals
+## 🏋️ Outside the lab
 
-```text
-geo      CRS · raster grids · STAC · geospatial correctness
-science  evidence · uncertainty · reproducibility · climate figures
-build    Python · typed models · CLI · CI · evals · release engineering
-habit    inspect first · keep scope tight · make claims testable
-```
+**Now:** lifting 🏋️ · photography 📷 · cooking 🍳
+**Always:** philosophy 📚 · psychology 🧠 · rock 🎸 · hiking 🥾
 
-## From the lab
+## 🤝 Community
 
-- [**Field Notes**](https://geogeeklab.github.io/field-notes.html) — longer technical notes and things learned in public.
-- [**Lab**](https://geogeeklab.github.io/lab.html) — experiments, prototypes, and project index.
-- [**Origin Story**](https://geogeeklab.github.io/origin/en/) — why GeoGeek exists.
-- [**Nature Reviewer Skills**](https://github.com/GeoGeekLab/nature-reviewer-skills) — the scientific-review skill family and its evidence corpus.
-
-## Outside the terminal
-
-`lifting · photography · cooking · philosophy · psychology · rock · hiking`
-
-Community work has included the Third National Soil Survey in Guangdong and the Guangzhou Marathon.
+🌾 **Volunteer Team Lead** — Third National Soil Survey, Guangdong
+🏃 **Volunteer** — Guangzhou Marathon
 
 ---
 
-> **PURSUIT** — At the summit, the crowd. At dusk, devotion remains.  
-> 云巅之上，喧阗若市；暮色之中，虔敬如初。
->
-> **LOVE** — Freedom walks. Love kneels.  
-> 自由是朝圣，爱是俯身。
->
-> **WAY** — Be water, my friend. 如水而行。
+## 💧 Creed
 
-<div align="center">
+**🏔️ PURSUIT** — At the summit, the crowd. At dusk, devotion remains.
+云巅之上，喧阗若市；暮色之中，虔敬如初。
 
-`geo → evidence → code → proof`
-
-**Geo to see. Geek to build.**
-
-</div>
+**❤️ LOVE** — Freedom walks. Love kneels.
+自由是朝圣，爱是俯身。    **🤝 WAY** — Be water, my friend. 如水而行。
