@@ -10,14 +10,14 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 ---
 ## What I'm building
 
-| Project | What it actually does |
+| Project | What it does |
 | --- | --- |
-| [**GeoDebug**](https://github.com/GeoGeekLab/geodebug) | Finds geospatial correctness failures that valid files and passing code can still hide — CRS misuse, impossible coordinates, raster-grid problems, dataset incompatibility, and unsafe spatial operations — with deterministic CLI/CI diagnostics. |
-| [**STAC Scout**](https://github.com/GeoGeekLab/stac-scout) | Scouts STAC catalogs before the compute: discovers suitable datasets, verifies real Items, resolves assets, plans raster reads, records provenance, and replays the decision later. |
-| [**Nature Reviewer Skills**](https://github.com/GeoGeekLab/nature-reviewer-skills) | Domain-aware scientific reviewer skills that stress-test claims against evidence, controls, validation, uncertainty, mechanism, and generalization, backed by explicit cases and evaluation artifacts. |
-| [**IPCC WGI Scientific Plotting**](https://github.com/GeoGeekLab/ipcc-wg1-scientific-plotting-skill) | Python tooling for IPCC AR6 WGI-style scientific figures, source-backed reference reproductions, publication-oriented plotting helpers, and automated figure audits. |
-| [**engineering-quality**](https://github.com/GeoGeekLab/engineering-quality) | A portable Agent Skill for coding agents: read the repository contract, patch narrowly, try to break the change, inspect the diff, and separate executed evidence from unverified claims. |
-| [**awesome-tech-feeds**](https://github.com/GeoGeekLab/awesome-tech-feeds) | A Git-native RSS/Atom registry with stable source IDs, curated collections and profiles, deterministic JSON/OPML builds, endpoint health probes, a CLI, and a typed Python API. |
+| [**GeoDebug**](https://github.com/GeoGeekLab/geodebug) | Deterministic geospatial linting for the bugs type checkers miss: CRS misuse, impossible coordinates, grid misalignment, NoData/mask conflicts, and unsafe spatial ops — local or CI. |
+| [**STAC Scout**](https://github.com/GeoGeekLab/stac-scout) | A STAC decision pipeline: discover → verify Items → resolve assets → plan reads → write manifest → replay against catalog drift. |
+| [**Nature Reviewer Skills**](https://github.com/GeoGeekLab/nature-reviewer-skills) | Evidence-first reviewer skills for scientific claims: controls, uncertainty, mechanism, generalization, domain gates, and executable evaluation cases. |
+| [**IPCC WGI Scientific Plotting**](https://github.com/GeoGeekLab/ipcc-wg1-scientific-plotting-skill) | Python + CLI for AR6 WGI plotting: source-pinned reproductions, scenario styles, publication layouts, and machine-audited figures. |
+| [**engineering-quality**](https://github.com/GeoGeekLab/engineering-quality) | An Agent Skill that turns “looks good” into an evidence trail: repo recon → contract → narrow patch → adversarial checks → diff review → proof. |
+| [**awesome-tech-feeds**](https://github.com/GeoGeekLab/awesome-tech-feeds) | RSS as infrastructure: Git-native source registry → validate → compile → JSON/OPML, with stable IDs, profiles, health probes, a CLI, and a typed API. |
 
 ## 🏋️ Outside the lab
 
