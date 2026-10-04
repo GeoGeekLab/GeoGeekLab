@@ -36,4 +36,4 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 云巅之上，喧阗若市；暮色之中，虔敬如初。
 
 **❤️ LOVE** — Freedom walks. Love kneels.
-自由是朝圣，爱是俯身。    **🤝 WAY** — [Be water, my friend. 如水而行。](https://brucelee.com/podcast-blog/2016/7/20/2-be-water-my-friend)
+自由是朝圣，爱是俯身。    **🤝 WAY** — [Be water, my friend. 如水而行。]([https://brucelee.com/podcast-blog/2016/7/20/2-be-water-my-friend](https://www.youtube.com/watch?v=dkpQGQcbOc0))
