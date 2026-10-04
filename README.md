@@ -17,6 +17,12 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 | <img src="https://raw.githubusercontent.com/GeoGeekLab/nature-reviewer-skills/main/assets/reffox/reffox-avatar.webp" width="24" alt="RefFox"> [**Nature Reviewer Skills**](https://github.com/GeoGeekLab/nature-reviewer-skills) | Simulates Nature-style peer review before submission. |
 | <img src="https://raw.githubusercontent.com/GeoGeekLab/engineering-quality/main/assets/mascot/evi.jpg" width="24" alt="Evi"> [**engineering-quality**](https://github.com/GeoGeekLab/engineering-quality) | Makes coding agents prove their code changes. |
 | <img src="https://raw.githubusercontent.com/GeoGeekLab/awesome-tech-feeds/main/brand/mascot/head.svg" width="24" alt="Geo Gecko"> [**awesome-tech-feeds**](https://github.com/GeoGeekLab/awesome-tech-feeds) | Curates high-signal tech feeds as a Git-native registry. |
+| 🛰️ [**Orbital Commons**](https://github.com/GeoGeekLab/orbital-commons) | Explores satellite populations, orbital propagation, and observer geometry. |
+| 🛰️ [**Earth in Change**](https://github.com/GeoGeekLab/earth-in-change) | Compares multi-temporal Earth-observation products across space and time. |
+| 🌐 [**Geographic Flow Laboratory**](https://github.com/GeoGeekLab/geographic-flow-lab) | Compares vector fields, OD networks, trajectories, and particle transport. |
+| 🌎 [**Earth Pulse**](https://github.com/GeoGeekLab/earth-pulse) | Maps recent global seismicity across time windows and spatial aggregation. |
+| 🧭 [**Image → Trace**](https://github.com/GeoGeekLab/image-to-trace) | Turns raster image fields into level-set vector geometry. |
+| 🗺️ [**World as Relation**](https://github.com/GeoGeekLab/world-as-relation) | Studies map projections, distortion, and geographic representation. |
 
 ## 🏋️ Outside the lab
 
