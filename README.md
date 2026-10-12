@@ -24,13 +24,6 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 | 🧭 [**Image → Trace**](https://github.com/GeoGeekLab/image-to-trace) | Turns raster image fields into level-set vector geometry. |
 | 🗺️ [**World as Relation**](https://github.com/GeoGeekLab/world-as-relation) | Studies map projections, distortion, and geographic representation. |
 
-## ✍️ Writing
-
-Reading notes and reflections on history, family, and human nature.
-
-- [**满纸残局与未竟的落款：读威廉·曼彻斯特〈光荣与梦想〉**](https://geogeeklab.github.io/records/elsewhere-book-001.html)
-- [**背影渐远，方懂目送——读龙应台〈目送〉有感**](https://geogeeklab.github.io/records/elsewhere-book-026.html)
-- [**厚黑之名，照见的究竟是什么？**](https://geogeeklab.github.io/records/elsewhere-book-035.html)
 
 ## 🏋️ Outside the lab
 
