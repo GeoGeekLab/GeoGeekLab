@@ -10,23 +10,22 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 ---
 ## What I'm building
 
-### Tools & research workflows
+> **Look closer. Question the result. Build the missing instrument.**
 
-| Project | Focus |
-| --- | --- |
-| <img src="https://raw.githubusercontent.com/GeoGeekLab/geodebug/main/assets/geomole-icon.png" width="24" alt="GeoMole"> [**GeoDebug**](https://github.com/GeoGeekLab/geodebug) | Geospatial debugging and test coverage. |
-| <img src="https://raw.githubusercontent.com/GeoGeekLab/stac-scout/main/docs/assets/mascot/scout-hero.webp" width="24" alt="Scout"> [**STAC Scout**](https://github.com/GeoGeekLab/stac-scout) | Geospatial data discovery and verification. |
-| <img src="https://raw.githubusercontent.com/GeoGeekLab/nature-reviewer-skills/main/assets/reffox/reffox-avatar.webp" width="24" alt="RefFox"> [**Nature Reviewer Skills**](https://github.com/GeoGeekLab/nature-reviewer-skills) | Journal-style manuscript review. |
-| <img src="https://raw.githubusercontent.com/GeoGeekLab/engineering-quality/main/assets/mascot/evi.jpg" width="24" alt="Evi"> [**engineering-quality**](https://github.com/GeoGeekLab/engineering-quality) | Evidence-based software quality gates. |
-| <img src="https://raw.githubusercontent.com/GeoGeekLab/awesome-tech-feeds/main/brand/mascot/head.svg" width="24" alt="Geo Gecko"> [**awesome-tech-feeds**](https://github.com/GeoGeekLab/awesome-tech-feeds) | Git-native technical feed registry. |
+### 🌍 `geo.observe()` — change the lens
 
-### Earth-system instruments
+`orbit` [Orbital Commons](https://github.com/GeoGeekLab/orbital-commons) · `time` [Earth in Change](https://github.com/GeoGeekLab/earth-in-change) · `flow` [Geographic Flow Laboratory](https://github.com/GeoGeekLab/geographic-flow-lab) · `seismicity` [Earth Pulse](https://github.com/GeoGeekLab/earth-pulse)  
+`geometry` [Image → Trace](https://github.com/GeoGeekLab/image-to-trace) · `projection` [World as Relation](https://github.com/GeoGeekLab/world-as-relation) · `spectrum` [Water as Spectrum](https://github.com/GeoGeekLab/water-as-spectrum)
 
-- **Water & Earth observation** — [**Water as Spectrum**](https://github.com/GeoGeekLab/water-as-spectrum) · [Earth in Change](https://github.com/GeoGeekLab/earth-in-change) · [Earth Pulse](https://github.com/GeoGeekLab/earth-pulse)
-- **Geometry & spatial dynamics** — [World as Relation](https://github.com/GeoGeekLab/world-as-relation) · [Image → Trace](https://github.com/GeoGeekLab/image-to-trace) · [Geographic Flow Laboratory](https://github.com/GeoGeekLab/geographic-flow-lab)
-- **Orbital systems** — [Orbital Commons](https://github.com/GeoGeekLab/orbital-commons)
+**[Step into the Lab ↗](https://geogeeklab.github.io/lab.html)**
 
-[**Explore GeoGeek Lab ↗**](https://geogeeklab.github.io/lab.html)
+### ⚙️ `geek.build()` — make the result earn its checkmark
+
+<img src="https://raw.githubusercontent.com/GeoGeekLab/geodebug/main/assets/geomole-icon.png" width="24" alt="GeoMole"> [**GeoDebug**](https://github.com/GeoGeekLab/geodebug) — Code passes. Geography disagrees.  
+<img src="https://raw.githubusercontent.com/GeoGeekLab/stac-scout/main/docs/assets/mascot/scout-hero.webp" width="24" alt="Scout"> [**STAC Scout**](https://github.com/GeoGeekLab/stac-scout) — Find the scene before burning the compute.  
+<img src="https://raw.githubusercontent.com/GeoGeekLab/nature-reviewer-skills/main/assets/reffox/reffox-avatar.webp" width="24" alt="RefFox"> [**Nature Reviewer Skills**](https://github.com/GeoGeekLab/nature-reviewer-skills) — Meet the toughest reviewer before submission.  
+<img src="https://raw.githubusercontent.com/GeoGeekLab/engineering-quality/main/assets/mascot/evi.jpg" width="24" alt="Evi"> [**engineering-quality**](https://github.com/GeoGeekLab/engineering-quality) — A green check needs receipts.  
+<img src="https://raw.githubusercontent.com/GeoGeekLab/awesome-tech-feeds/main/brand/mascot/head.svg" width="24" alt="Geo Gecko"> [**awesome-tech-feeds**](https://github.com/GeoGeekLab/awesome-tech-feeds) — Less noise. Better signals.
 
 ## 🏋️ Outside the lab
 
