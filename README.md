@@ -15,8 +15,6 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 `orbit` [Orbital Commons](https://github.com/GeoGeekLab/orbital-commons) · `time` [Earth in Change](https://github.com/GeoGeekLab/earth-in-change) · `flow` [Geographic Flow Laboratory](https://github.com/GeoGeekLab/geographic-flow-lab) · `seismicity` [Earth Pulse](https://github.com/GeoGeekLab/earth-pulse)  
 `geometry` [Image → Trace](https://github.com/GeoGeekLab/image-to-trace) · `projection` [World as Relation](https://github.com/GeoGeekLab/world-as-relation) · `spectrum` [Water as Spectrum](https://github.com/GeoGeekLab/water-as-spectrum)
 
-**[Step into the Lab ↗](https://geogeeklab.github.io/lab.html)**
-
 ### ⚙️ `geek.build()`
 
 <img src="https://raw.githubusercontent.com/GeoGeekLab/geodebug/main/assets/geomole-icon.png" width="24" alt="GeoMole"> [**GeoDebug**](https://github.com/GeoGeekLab/geodebug) — Code passes. Geography disagrees.  
