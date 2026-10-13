@@ -30,7 +30,7 @@
 | `METHOD` | `FIELD` | `PRINCIPLE` |
 | Use AI within research and engineering workflows. Verify the output, not just the execution. | Build tools for spatial data, Earth observation, geographic reasoning, and reproducible computation. | Make assumptions, evidence, methods, and limitations inspectable. Share work that others can test and improve. |
 
-I work with **geographic questions** and **engineering methods**. A model is not a measurement; a visualization is not evidence; a passing test is not proof of geographic correctness.
+I work with **geographic questions** and **engineering methods**. A model estimate is not the phenomenon itself. A polished map cannot substitute for validation. A passing software test alone does not establish geographic correctness.
 
 ## `02 / RESEARCH LOOP`
 
