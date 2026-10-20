@@ -23,12 +23,14 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 <img src="https://raw.githubusercontent.com/GeoGeekLab/engineering-quality/main/assets/mascot/evi.jpg" width="24" alt="Evi"> [**engineering-quality**](https://github.com/GeoGeekLab/engineering-quality) — A green check needs receipts.  
 <img src="https://raw.githubusercontent.com/GeoGeekLab/awesome-tech-feeds/main/brand/mascot/head.svg" width="24" alt="Geo Gecko"> [**awesome-tech-feeds**](https://github.com/GeoGeekLab/awesome-tech-feeds) — Less noise. Better signals.
 
+## 💡 Worth Sharing
+
+🎮 [The Evolution of Trust · 信任的进化](https://dccxi.com/trust/) — Why do we betray each other when we could both win?
+
 ## 🏋️ Outside the lab
 
 **Now:** lifting 🏋️ · photography 📷 · cooking 🍳
 **Always:** philosophy 📚 · psychology 🧠 · rock 🎸 · hiking 🥾
-
-🎮 **Worth playing:** [The Evolution of Trust · 信任的进化](https://dccxi.com/trust/) — A tiny game about trust, cooperation, and why the rules matter.
 
 ## 🤝 Community
 
