@@ -25,7 +25,7 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 
 ## 💡 Worth Sharing
 
-🎮 [The Evolution of Trust · 信任的进化](https://dccxi.com/trust/) — Why do we betray each other when we could both win?
+🎮 [The Evolution of Trust](https://dccxi.com/trust/) — Why do we betray each other when we could both win?
 
 🎥 [Steve Jobs’ 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) — “Your time is limited, so don't waste it living someone else's life.”
 
