@@ -28,6 +28,8 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 **Now:** lifting 🏋️ · photography 📷 · cooking 🍳
 **Always:** philosophy 📚 · psychology 🧠 · rock 🎸 · hiking 🥾
 
+🎮 **Worth playing:** [The Evolution of Trust · 信任的进化](https://dccxi.com/trust/) — A tiny game about trust, cooperation, and why the rules matter.
+
 ## 🤝 Community
 
 🌾 **Volunteer Team Lead** — Third National Soil Survey, Guangdong
