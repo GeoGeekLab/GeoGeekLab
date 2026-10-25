@@ -1,6 +1,8 @@
 # Who am I
 
-A geek who builds in public 🛠️ and learns out loud 📣. A boy who dances at dawn 🌅 and tears up at dusk 🌆.
+A geek who builds in public 🛠️ and learns out loud 📣. 
+
+A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 
 ### Thinking & Building
 
