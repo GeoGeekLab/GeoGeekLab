@@ -6,7 +6,7 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 
 ### 🧠 Thinking & Building
 
-🌌 [Origin ↗](https://geogeeklab.github.io/origin/en/) — Discover the source. · 📝 [Blog ↗](https://geogeeklab.github.io/field-notes.html) — Debug the mind. · 🧪 [Lab ↗](https://geogeeklab.github.io/lab.html) — Decode the world.
+🌌 [Origin ↗](https://geogeeklab.github.io/origin/) — Discover the source. · 📝 [Blog ↗](https://geogeeklab.github.io/field-notes.html) — Debug the mind. · 🧪 [Lab ↗](https://geogeeklab.github.io/lab.html) — Decode the world.
 
 ### 🌿 Outside the Lab
 
@@ -20,4 +20,8 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 
 ---
 
-**💡 Worth Sharing:** 🎮 [The Evolution of Trust](https://dccxi.com/trust/) — If cooperation helps us all, why is trust so hard?
+ **💡 Worth Sharing** 
+ 
+ 🎮 [The Evolution of Trust](https://dccxi.com/trust/) — Trust takes a thousand acts to build, but only one betrayal to break. 
+ 
+ 📺 [We Become What We Behold](https://ncase.itch.io/wbwwb) — The hate we amplify is the hate we create.
