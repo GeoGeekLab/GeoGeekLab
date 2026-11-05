@@ -22,6 +22,6 @@ A boy who dances at dawn 🌅 and tears up at dusk 🌆.
 
  **💡 Worth Sharing** 
  
- 🎮 [The Evolution of Trust](https://dccxi.com/trust/) — Trust takes a thousand acts to build, but only one betrayal to break. 
+ 🎮 [The Evolution of Trust](https://dccxi.com/trust/) —  Trust isn't who we are. It's how we play. 
  
- 📺 [We Become What We Behold](https://ncase.itch.io/wbwwb) — The hate we amplify is the hate we create.
+ 📺 [We Become What We Behold](https://ncase.itch.io/wbwwb) — The monsters we watch are the monsters we make.
